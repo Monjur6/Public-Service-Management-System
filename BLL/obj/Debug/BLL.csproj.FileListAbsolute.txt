@@ -1,0 +1,16 @@
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BLL\bin\Debug\BLL.dll
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BLL\bin\Debug\BLL.pdb
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BLL\bin\Debug\AutoMapper.dll
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BLL\bin\Debug\DAL.dll
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BLL\bin\Debug\EntityFramework.dll
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BLL\bin\Debug\DAL.pdb
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BLL\bin\Debug\DAL.dll.config
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BLL\bin\Debug\AutoMapper.xml
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BLL\bin\Debug\EntityFramework.xml
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BLL\obj\Debug\BLL.dll
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BLL\obj\Debug\BLL.pdb
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BLL\bin\Debug\BEL.dll
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BLL\bin\Debug\BEL.pdb

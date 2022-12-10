@@ -1,0 +1,14 @@
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BAL\bin\Debug\BAL.dll
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BAL\bin\Debug\BAL.pdb
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BAL\bin\Debug\DAL.dll
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BAL\bin\Debug\EntityFramework.dll
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BAL\bin\Debug\DAL.pdb
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BAL\bin\Debug\DAL.dll.config
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BAL\bin\Debug\EntityFramework.xml
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BAL\obj\Debug\BAL.csproj.CopyComplete
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BAL\obj\Debug\BAL.dll
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BAL\obj\Debug\BAL.pdb
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BAL\bin\Debug\AutoMapper.dll
+D:\AIUB\9th Semester\ADVANCED PROGRAMMING WITH .NET [B]\MY Work\Visual Studio\PublicService\BAL\bin\Debug\AutoMapper.xml
