@@ -21,5 +21,13 @@ namespace DAL
         {
             return new ServiceRepo(db);
         }
+        public static IRepo<Appeal, int> AppealDataAccess()
+        {
+            return new AppealRepo(db);
+        }
+        public static IRepo<UserAppeal, int> UserAppealDataAccess()
+        {
+            return new UserAppealRepo(db);
+        }
     }
 }

@@ -42,34 +42,6 @@ namespace DAL
         {
             return db.Users.FirstOrDefault(e => e.Id == id);
         }
-        //static PSEntities db;
-        //static UserRepo()
-        //{
-        //    db = new PSEntities();
-        //}
-        //public static List<User> Get()
-        //{
-        //    return db.Users.ToList();
-        //}
-        //public static User Get(int id)
-        //{
-        //    return db.Users.FirstOrDefault(e => e.Id == id);
-        //}
-        //public static void Edit(User u)
-        //{
-        //    var du = db.Users.FirstOrDefault(e => e.Id == u.Id);
-        //    db.Entry(du).CurrentValues.SetValues(u);
-        //    db.SaveChanges();
-        //}
-        //public static void Delete(int Id)
-        //{
-        //    var du = db.Users.FirstOrDefault(e => e.Id == Id);
-        //    db.Users.Remove(du);
-        //}
-        //public static void Add(User u)
-        //{
-        //    db.Users.Add(u);
-        //    db.SaveChanges();
-        //}
+       
     }
 }

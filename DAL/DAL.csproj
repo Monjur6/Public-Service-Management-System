@@ -51,9 +51,11 @@
     <Compile Include="Appeal.cs">
       <DependentUpon>PSM.tt</DependentUpon>
     </Compile>
+    <Compile Include="AppealRepo.cs" />
     <Compile Include="DataAccessFactory.cs" />
     <Compile Include="IRepo.cs" />
     <Compile Include="ServiceRepo.cs" />
+    <Compile Include="UserAppealRepo.cs" />
     <Compile Include="UserRepo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PSM.Context.cs">
